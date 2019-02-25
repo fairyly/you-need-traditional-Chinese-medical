@@ -1,8 +1,19 @@
-# you-need-traditional-Chinese-medical
+# You Need to See Through Traditional Chinese Medical
+
+# 程序员最先需要的中医科普
+
+## 揭穿中医： https://tcmexposed.github.io/
+
+https://tcmexposed.github.io/
+
+该站主要致力于收集整理各类批判中医的文章资料，包括但不限于对中医理论的批判、对中医药和各种保健品虚假宣传的揭露，除此以外，本站还特别收集陈列一些中医师和中医粉荒诞或搞笑的言论加以点评，以便让人民大众看清这些中医不学无术、固步自封、狂妄自大的真实面目。
+
 
 >未完待续，还在整理中.....
 
 >程序员需要懂得的中医养生
+
+
 
 ## 目录
 - [1.中医九种体质](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.%E4%B8%AD%E5%8C%BB%E4%B9%9D%E7%A7%8D%E4%BD%93%E8%B4%A8.md)
