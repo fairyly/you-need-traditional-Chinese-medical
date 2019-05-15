@@ -2,7 +2,8 @@
 
 >未完待续，还在整理中.....
 
->程序员需要懂得的中医养生
+>程序员需要懂得的中医养生  
+2018年9月16日 星期天 开始整理
 
 ## 目录
 - [1.中医九种体质](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.%E4%B8%AD%E5%8C%BB%E4%B9%9D%E7%A7%8D%E4%BD%93%E8%B4%A8.md)
