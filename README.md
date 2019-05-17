@@ -34,8 +34,55 @@
     - 13.蜂蜜
     
   - [1.1.1.2 补阳药（21种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.1%20%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.2%20%E8%A1%A5%E9%98%B3%E8%8D%AF(21%E7%A7%8D).md)
+    - 14.鹿茸
+    - 15.紫河车
+    - 16.淫羊藿
+    - 17.巴戟天
+    - 18.仙茅
+    - 19.杜仲
+    - 20.续断
+    - 21.肉苁蓉
+    - 22.锁阳
+    - 23.补骨脂
+    - 24.益智仁
+    - 25.菟丝子
+    - 26.沙苑子
+    - 27.韭菜子
+    - 28.核桃仁
+    - 29.冬虫夏草
+    - 30.葫芦巴
+    - 31.蛤蚧
+    - 32.阳起石
+    - 33.紫石英
+    - 34.海马
+    
   - [1.1.1.2 补血药（7种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.1%20%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.3%20%E8%A1%A5%E8%A1%80%E8%8D%AF(7%E7%A7%8D).md)
+    - 35.当归
+    - 36.熟地黄
+    - 37.白芍
+    - 38.阿胶
+    - 39.何首乌
+    - 40.桂圆肉
+    - 41.楮实子
+    
   - [1.1.1.2 补阴药（16种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.1%20%E8%A1%A5%E8%99%9A%E8%8D%AF/1.1.4%20%E8%A1%A5%E9%98%B4%E8%8D%AF(16%E7%A7%8D).md)
+    - 42.北沙参
+    - 43.南沙参
+    - 44.百合
+    - 45.麦冬
+    - 46.天门冬
+    - 47.石斛
+    - 48.玉竹
+    - 49.黄精
+    - 50.明党参
+    - 51.枸杞子
+    - 52.墨旱莲
+    - 53.女贞子
+    - 54.桑葚
+    - 55.黑芝麻
+    - 56.龟甲
+    - 57.鳖甲
+    
 - [1.1.2 解表药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF)
 - [1.1.3 清热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF)
 - [1.1.4 泻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF)
