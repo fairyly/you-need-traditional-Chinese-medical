@@ -690,7 +690,7 @@
   - [1.3.1.2 攻毒杀虫止痒药(9种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.3.1%20%E6%B6%8C%E5%90%90%E8%8D%AF%2C%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF/2.%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF(9%E7%A7%8D).md)
     <details>
   
-      - 392. 木鳖子
+      - 392.木鳖子
       - 393.蜂房
       - 394.白矾
       - 395.硫磺
