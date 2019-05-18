@@ -533,33 +533,74 @@
       
     </details>
 - [1.2.5 化痰止咳平喘药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.5%20%E5%8C%96%E7%97%B0%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF)
-  - []()
+  - [1.2.5.1 温化寒痰药(6种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.5%20%E5%8C%96%E7%97%B0%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF/1.%E6%B8%A9%E5%8C%96%E5%AF%92%E7%97%B0%E8%8D%AF(6%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 312.半夏
+      - 313.天南星
+      - 314.旋覆花
+      - 315.白前
+      - 316.猫爪草
+      - 317.白芥子
+      
       
     </details>
-  - []()
+  - [1.2.5.2 清化热痰药(13种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.5%20%E5%8C%96%E7%97%B0%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF/2.%E6%B8%85%E5%8C%96%E7%83%AD%E7%97%B0%E8%8D%AF(13%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 318.浙贝母
+      - 319.川贝母
+      - 320.竹茹
+      - 321.天竺黄
+      - 322.前胡
+      - 323.瓜蒌
+      - 324.桔梗
+      - 325.胖大海
+      - 326.昆布
+      - 327.海藻
+      - 328.黄药子
+      - 329.海浮石
+      - 330.瓦楞子
+      
+    </details>
+  - [1.2.5.3 止咳平喘药(11种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.5%20%E5%8C%96%E7%97%B0%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF/3.%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF(11%E7%A7%8D).md)
+    <details>
+  
+      - 331.苦杏仁
+      - 332.紫苏子
+      - 333.紫苑
+      - 334.百部
+      - 335.款冬花
+      - 336.枇杷叶
+      - 337.桑白皮
+      - 338.葶苈子
+      - 339.白果
+      - 340.罗汉果
+      - 341.千日红 
       
     </details>
 - [1.2.6 安神药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.6%20%E5%AE%89%E7%A5%9E%E8%8D%AF)
-  - []()
+  - [1.2.6.1 重镇安神药(4种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.6%20%E5%AE%89%E7%A5%9E%E8%8D%AF/1.%E9%87%8D%E9%95%87%E5%AE%89%E7%A5%9E%E8%8D%AF(4%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 342.朱砂
+      - 343.磁石
+      - 344.琥珀
+      - 345.龙骨
       
     </details>
-  - []()
+  - [1.2.6.2 养心安神药(8种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.6%20%E5%AE%89%E7%A5%9E%E8%8D%AF/2.%E5%85%BB%E5%BF%83%E5%AE%89%E7%A5%9E%E8%8D%AF(8%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 346.酸枣仁
+      - 347.柏子仁
+      - 348.天仙子
+      - 349.远志
+      - 350.缬(xie)草
+      - 351.合欢皮
+      - 352.夜交藤
+      - 353.灵芝
+      
       
     </details>
 - [1.2.7 平肝息风药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.7%20%E5%B9%B3%E8%82%9D%E6%81%AF%E9%A3%8E%E8%8D%AF)
