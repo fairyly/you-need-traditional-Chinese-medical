@@ -100,7 +100,7 @@
     </details>
     
 - [1.1.2 解表药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF)
-  - [1.1.2.1 发散风寒药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/1.%20%E5%8F%91%E6%95%A3%E9%A3%8E%E5%AF%92%E8%8D%AF(15%E7%A7%8D).md)
+  - [1.1.2.1 发散风寒药（15种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/1.%20%E5%8F%91%E6%95%A3%E9%A3%8E%E5%AF%92%E8%8D%AF(15%E7%A7%8D).md)
     <details>
   
       - 58.麻黄
@@ -121,7 +121,7 @@
       
     </details>
     
-  - [1.1.2.2 发散风热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/2.%E5%8F%91%E6%95%A3%E9%A3%8E%E7%83%AD%E8%8D%AF(12%E7%A7%8D).md)
+  - [1.1.2.2 发散风热药]（12种）(https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/2.%E5%8F%91%E6%95%A3%E9%A3%8E%E7%83%AD%E8%8D%AF(12%E7%A7%8D).md)
     <details>
   
       - 73.薄荷
@@ -139,7 +139,7 @@
     </details>
     
 - [1.1.3 清热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF)
-  - [1.1.3.1 清热泻火药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/1.%E6%B8%85%E7%83%AD%E6%B3%BB%E7%81%AB%E8%8D%AF(14%E7%A7%8D).md)
+  - [1.1.3.1 清热泻火药（14种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/1.%E6%B8%85%E7%83%AD%E6%B3%BB%E7%81%AB%E8%8D%AF(14%E7%A7%8D).md)
     <details>
   
       - 85.知母
@@ -159,7 +159,7 @@
       
       
     </details>
-  - [1.1.3.2 清热燥湿药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/2.%E6%B8%85%E7%83%AD%E7%87%A5%E6%B9%BF%E8%8D%AF(7%E7%A7%8D).md)
+  - [1.1.3.2 清热燥湿药（7种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/2.%E6%B8%85%E7%83%AD%E7%87%A5%E6%B9%BF%E8%8D%AF(7%E7%A7%8D).md)
     <details>
   
       - 99.黄芩
@@ -172,7 +172,7 @@
       
       
     </details>
-  - [1.1.3.3 清热解毒药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/3.%E6%B8%85%E7%83%AD%E8%A7%A3%E6%AF%92%E8%8D%AF(37%E7%A7%8D).md)
+  - [1.1.3.3 清热解毒药（37种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/3.%E6%B8%85%E7%83%AD%E8%A7%A3%E6%AF%92%E8%8D%AF(37%E7%A7%8D).md)
     <details>
   
       - 106.金银花
@@ -215,7 +215,7 @@
       
       
      </details>
-  - [1.1.3.4 清热凉血药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/4.%E6%B8%85%E7%83%AD%E5%87%89%E8%A1%80%E8%8D%AF(6%E7%A7%8D).md)
+  - [1.1.3.4 清热凉血药（6种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/4.%E6%B8%85%E7%83%AD%E5%87%89%E8%A1%80%E8%8D%AF(6%E7%A7%8D).md)
     <details>
   
       - 143.生地黄
@@ -226,7 +226,7 @@
       - 148.水牛角
       
      </details>
-   - [1.1.3.5 清虚热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/5.%E6%B8%85%E8%99%9A%E7%83%AD%E8%8D%AF(5%E7%A7%8D).md)
+   - [1.1.3.5 清虚热药（5种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF/5.%E6%B8%85%E8%99%9A%E7%83%AD%E8%8D%AF(5%E7%A7%8D).md)
      <details>
   
       - 149.青蒿(hao)
@@ -239,7 +239,7 @@
      </details>
   
 - [1.1.4 泻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF)
-  - [1.1.4.1 攻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/1.%E6%94%BB%E4%B8%8B%E8%8D%AF(4%E7%A7%8D).md)
+  - [1.1.4.1 攻下药(4种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/1.%E6%94%BB%E4%B8%8B%E8%8D%AF(4%E7%A7%8D).md)
     <details>
   
       - 154.大黄
@@ -250,7 +250,7 @@
       
       
     </details>
-  - [1.1.4.2 润下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/2.%E6%B6%A6%E4%B8%8B%E8%8D%AF(2%E7%A7%8D).md)
+  - [1.1.4.2 润下药（2种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/2.%E6%B6%A6%E4%B8%8B%E8%8D%AF(2%E7%A7%8D).md)
     <details>
   
       - 158.火麻仁
@@ -259,7 +259,7 @@
       
     </details>
     
-   - [1.1.4.3 峻下逐水药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/3.%E5%B3%BB%E4%B8%8B%E9%80%90%E6%B0%B4%E8%8D%AF(3%E7%A7%8D).md)
+   - [1.1.4.3 峻下逐水药（3种）](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF/3.%E5%B3%BB%E4%B8%8B%E9%80%90%E6%B0%B4%E8%8D%AF(3%E7%A7%8D).md)
      <details>
 
        - 160.甘遂
@@ -604,63 +604,101 @@
       
     </details>
 - [1.2.7 平肝息风药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.7%20%E5%B9%B3%E8%82%9D%E6%81%AF%E9%A3%8E%E8%8D%AF)
-  - []()
+  - [1.2.7.1 平抑肝阳药(7种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.7%20%E5%B9%B3%E8%82%9D%E6%81%AF%E9%A3%8E%E8%8D%AF/1.%E5%B9%B3%E6%8A%91%E8%82%9D%E9%98%B3%E8%8D%AF(7%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 354.石决明
+      - 355.牡蛎
+      - 356.珍珠母
+      - 357.紫贝齿
+      - 358.罗布麻叶
+      - 359.代赭(zhe)石
+      - 360.刺蒺藜
+      
+      
       
     </details>
-  - []()
+  - [1.2.7.2 息风止痉药(7种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.7%20%E5%B9%B3%E8%82%9D%E6%81%AF%E9%A3%8E%E8%8D%AF/2.%E6%81%AF%E9%A3%8E%E6%AD%A2%E7%97%89%E8%8D%AF(7%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 361.僵蚕
+      - 362.蜈蚣
+      - 363.全蝎
+      - 364.地龙
+      - 365.天麻
+      - 366.钩藤
+      - 367.珍珠
+      
       
     </details>
 - [1.2.8 开窍药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.8%20%E5%BC%80%E7%AA%8D%E8%8D%AF)
-  - []()
+  - [1.2.8.1 开窍药(3种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.8%20%E5%BC%80%E7%AA%8D%E8%8D%AF/1.%E5%BC%80%E7%AA%8D%E8%8D%AF(3%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 368.冰片
+      - 369.石菖蒲
+      - 370.苏合香
       
     </details>
-  - []()
-    <details>
-  
-      - 
-      - 
-      
-    </details>
+
 - [1.2.9 收涩药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.9%20%E6%94%B6%E6%B6%A9%E8%8D%AF)
-  - []()
+  - [1.2.9.1 固表止汗药(2种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.9%20%E6%94%B6%E6%B6%A9%E8%8D%AF/1.%E5%9B%BA%E8%A1%A8%E6%AD%A2%E6%B1%97%E8%8D%AF(2%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 371.麻黄根
+      - 372.浮小麦
       
     </details>
-  - []()
+  - [1.2.9.2 敛肺涩肠药(6种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.9%20%E6%94%B6%E6%B6%A9%E8%8D%AF/2.%E6%95%9B%E8%82%BA%E6%B6%A9%E8%82%A0%E8%8D%AF(6%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 373.诃(he)子
+      - 374.肉豆蔻
+      - 375.赤石脂
+      - 376.乌梅
+      - 377.五味子
+      - 378.五倍子
+      
+      
+    </details>
+  - [1.2.9.3 固精缩尿止带药(12种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.9%20%E6%94%B6%E6%B6%A9%E8%8D%AF/3.%E5%9B%BA%E7%B2%BE%E7%BC%A9%E5%B0%BF%E6%AD%A2%E5%B8%A6%E8%8D%AF(12%E7%A7%8D).md)
+    <details>
+  
+      - 379.刺猬皮
+      - 380.覆盆子
+      - 381.桑螵蛸
+      - 382.金樱子
+      - 383.海螵蛸
+      - 384.鸡冠花
+      - 385.芡实
+      - 386.山茱萸
+      - 387.莲子
+      - 388.莲子心
+      - 389.蓬须
+      - 390.椿皮
+      
       
     </details>
 - [1.3.1 涌吐药,攻毒杀虫止痒药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.3.1%20%E6%B6%8C%E5%90%90%E8%8D%AF%2C%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF)
-  - []()
+  - [1.3.1.1 涌吐药(1种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.3.1%20%E6%B6%8C%E5%90%90%E8%8D%AF%2C%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF/1.%E6%B6%8C%E5%90%90%E8%8D%AF(1%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 391.常山
+      
       
     </details>
-  - []()
+  - [1.3.1.2 攻毒杀虫止痒药(9种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.3.1%20%E6%B6%8C%E5%90%90%E8%8D%AF%2C%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF/2.%E6%94%BB%E6%AF%92%E6%9D%80%E8%99%AB%E6%AD%A2%E7%97%92%E8%8D%AF(9%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 392. 木鳖子
+      - 393.蜂房
+      - 394.白矾
+      - 395.硫磺
+      - 396.蛇床子
+      - 397.大蒜
+      - 398.雄黄
+      - 399.土槿皮
+      - 400.硼砂
       
     </details>
 
