@@ -428,33 +428,56 @@
     </details>
 
 - [1.2.2 驱虫药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.2%20%E9%A9%B1%E8%99%AB%E8%8D%AF)
-  - []()
+  - [1.2.2.1 驱虫药(4种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.2%20%E9%A9%B1%E8%99%AB%E8%8D%AF/1.%E9%A9%B1%E8%99%AB%E8%8D%AF(4%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 261.使君子
+      - 262.苦楝皮
+      - 263.南瓜子
+      - 264.槟榔
       
     </details>
-  - []()
-    <details>
-  
-      - 
-      - 
-      
-    </details>
+
 - [1.2.3 止血药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.3%20%E6%AD%A2%E8%A1%80%E8%8D%AF)
-  - []()
+  - [1.2.3.1 凉血止血药(6种)]()
     <details>
   
-      - 
-      - 
+      - 265.小蓟
+      - 266.大蓟
+      - 267.地榆
+      - 268.槐花
+      - 269.白茅根
+      - 270.侧柏叶
       
     </details>
-  - []()
+  - [1.2.3.2 化瘀止血药(6种)]()
     <details>
   
-      - 
-      - 
+      - 271.三七
+      - 272.茜草
+      - 273.降香
+      - 274.花蕊石
+      - 275.蒲黄
+      - 276.卷柏
+      
+      
+    </details>
+  - [1.2.3.3 收敛止血药(6种).]()
+    <details>
+  
+      - 277.白及
+      - 278.仙鹤草
+      - 279.藕节
+      - 280.血余炭
+      - 281.棕榈炭
+      - 282.花生衣
+      
+    </details>
+  - [1.2.3.4 温经止血药(2 种)]()
+    <details>
+  
+      - 283.艾叶
+      - 284.炮姜
       
     </details>
 - [1.2.4 活血化瘀药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.4%20%E6%B4%BB%E8%A1%80%E5%8C%96%E7%98%80%E8%8D%AF)
