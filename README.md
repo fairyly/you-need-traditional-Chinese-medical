@@ -100,6 +100,44 @@
     </details>
     
 - [1.1.2 解表药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF)
+  - [1.1.2.1 发散风寒药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/1.%20%E5%8F%91%E6%95%A3%E9%A3%8E%E5%AF%92%E8%8D%AF(15%E7%A7%8D).md)
+    <details>
+  
+      - 58.麻黄
+      - 59.桂枝
+      - 60.紫苏
+      - 61.生姜
+      - 62.香薷
+      - 63.荆芥
+      - 64.防风
+      - 65.羌活
+      - 66.白芷
+      - 67.辛夷
+      - 68.细辛
+      - 69.藁(gao)本
+      - 70.苍耳子
+      - 71.葱白
+      - 72.鹅不食草 
+      
+    </details>
+    
+  - [1.1.2.2 发散风热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.2%20%E8%A7%A3%E8%A1%A8%E8%8D%AF/2.%E5%8F%91%E6%95%A3%E9%A3%8E%E7%83%AD%E8%8D%AF(12%E7%A7%8D).md)
+    <details>
+  
+      - 73.薄荷
+      - 74.牛蒡子
+      - 75.蝉蜕
+      - 76.柴胡
+      - 77.桑叶
+      - 78.菊花
+      - 79.蔓荆子
+      - 80.升麻
+      - 81.葛根
+      - 82.淡豆豉(chi)
+      - 83.木贼
+      - 84.浮萍
+    </details>
+    
 - [1.1.3 清热药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.3%20%E6%B8%85%E7%83%AD%E8%8D%AF)
 - [1.1.4 泻下药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.4%20%E6%B3%BB%E4%B8%8B%E8%8D%AF)
 - [1.1.5 祛风湿药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.5%20%E7%A5%9B%E9%A3%8E%E6%B9%BF%E8%8D%AF)
