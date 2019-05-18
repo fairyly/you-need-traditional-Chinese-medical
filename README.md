@@ -481,18 +481,55 @@
       
     </details>
 - [1.2.4 活血化瘀药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.4%20%E6%B4%BB%E8%A1%80%E5%8C%96%E7%98%80%E8%8D%AF)
-  - []()
+  - [1.活血止疼药(7种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.4%20活血化瘀药/1.活血止疼药(7种).md)
     <details>
   
-      - 
-      - 
+      - 285.川穹
+      - 286.郁金
+      - 287.姜黄
+      - 288.延胡索
+      - 289.没药
+      - 290.乳香
+      - 291.五灵脂
+      
+      
       
     </details>
-  - []()
+  - [2.活血调经药(10种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.4%20%E6%B4%BB%E8%A1%80%E5%8C%96%E7%98%80%E8%8D%AF/2.%E6%B4%BB%E8%A1%80%E8%B0%83%E7%BB%8F%E8%8D%AF(10%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 292.丹参
+      - 293.红花
+      - 294.益母草
+      - 295.鸡血藤
+      - 296.桃仁
+      - 297.牛膝
+      - 298.王不留行
+      - 299.泽兰
+      - 300.月季花
+      - 301.凌霄花
+      
+      
+    </details>
+  - [3.活血疗伤药(6种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.4%20%E6%B4%BB%E8%A1%80%E5%8C%96%E7%98%80%E8%8D%AF/3.%E6%B4%BB%E8%A1%80%E7%96%97%E4%BC%A4%E8%8D%AF(6%E7%A7%8D).md)
+    <details>
+  
+      - 302.土鳖虫
+      - 303.苏木
+      - 304.骨碎补
+      - 305.自然铜
+      - 306.血竭
+      - 307.刘寄奴
+      
+      
+    </details>
+  - [4.破血消癓药(4种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.2.4%20%E6%B4%BB%E8%A1%80%E5%8C%96%E7%98%80%E8%8D%AF/4.%E7%A0%B4%E8%A1%80%E6%B6%88%E7%99%93%E8%8D%AF(4%E7%A7%8D).md)
+    <details>
+  
+      - 308.莪(e)术(zhu)
+      - 309.三棱
+      - 310.穿山甲
+      - 311.水蛭
       
     </details>
 - [1.2.5 化痰止咳平喘药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.2.5%20%E5%8C%96%E7%97%B0%E6%AD%A2%E5%92%B3%E5%B9%B3%E5%96%98%E8%8D%AF)
