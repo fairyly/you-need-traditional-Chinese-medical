@@ -311,37 +311,63 @@
       - 188.千年健
       - 189.鹿衔草
       - 190.狗脊
-      - 
+      
       
     </details>
 - [1.1.6 化湿药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.6%20%E5%8C%96%E6%B9%BF%E8%8D%AF)
-  - []()
+  - [1.1.6.1 化湿药(8种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.6%20%E5%8C%96%E6%B9%BF%E8%8D%AF/1.%E5%8C%96%E6%B9%BF%E8%8D%AF(8%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 191.藿香
+      - 192.佩兰
+      - 193.苍术
+      - 194.砂仁
+      - 195.豆蔻
+      - 196.草豆蔻
+      - 197.草果
+      - 198.厚朴
       
     </details>
-  - []()
-    <details>
   
-      - 
-      - 
-      
-    </details>
 - [1.1.7 利水渗湿药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.7%20%E5%88%A9%E6%B0%B4%E6%B8%97%E6%B9%BF%E8%8D%AF)
-  - []()
+  - [1.1.7.1 利水消肿药(8种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.7%20%E5%88%A9%E6%B0%B4%E6%B8%97%E6%B9%BF%E8%8D%AF/1.%E5%88%A9%E6%B0%B4%E6%B6%88%E8%82%BF%E8%8D%AF(8%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 199.茯苓
+      - 200.薏苡(yiyi)仁
+      - 201.猪苓
+      - 202.泽泻
+      - 203.冬瓜皮
+      - 204.玉米须
+      - 205.葫芦
+      - 206.泽漆
       
     </details>
-  - []()
+  - [1.1.7.2 利尿通淋药(12种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.7%20%E5%88%A9%E6%B0%B4%E6%B8%97%E6%B9%BF%E8%8D%AF/2.%E5%88%A9%E5%B0%BF%E9%80%9A%E6%B7%8B%E8%8D%AF(12%E7%A7%8D).md)
     <details>
   
-      - 
-      - 
+      - 207.车前子
+      - 208.滑石
+      - 209.木通
+      - 210.通草
+      - 211.(qu)瞿麦
+      - 212.萹蓄
+      - 213.地肤子
+      - 214.海金沙
+      - 215.石韦
+      - 216.冬葵子
+      - 217.灯心草
+      - 218.萆薢(bixie)
+     
+    </details>
+  - [1.1.7.3 利尿退黄药(5种)](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.1.7%20%E5%88%A9%E6%B0%B4%E6%B8%97%E6%B9%BF%E8%8D%AF/3.%E5%88%A9%E5%B0%BF%E9%80%80%E9%BB%84%E8%8D%AF(5%E7%A7%8D).md)
+    <details>
+  
+      - 219.茵陈
+      - 220.金钱草
+      - 221.虎杖
+      - 222.鸡骨草
+      - 223.垂盆草
       
     </details>
 - [1.1.8 温里药](https://github.com/fairyly/you-need-traditional-Chinese-medical/tree/master/1.1.8%20%E6%B8%A9%E9%87%8C%E8%8D%AF)
