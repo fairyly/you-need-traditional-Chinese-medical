@@ -1,6 +1,6 @@
 # you-need-traditional-Chinese-medical
 
->未完待续，还在整理中.....
+>每天中午吃饭后 + 星期的时候整理.....
 
 >程序员需要懂得的中医养生  
 
