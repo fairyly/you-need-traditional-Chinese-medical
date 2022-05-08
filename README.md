@@ -8,7 +8,7 @@
 
 >>>2019年5月18日 星期六 基本整理完成
 
->>>六月开始整理[中医知识库---中药方子](https://www.yuque.com/fairy/ecza7p)
+>>>六月开始整理[中医知识库---经方医案](https://www.yuque.com/fairy/okgxcg)
 
 ## 目录
 - [1.中医九种体质](https://github.com/fairyly/you-need-traditional-Chinese-medical/blob/master/1.%E4%B8%AD%E5%8C%BB%E4%B9%9D%E7%A7%8D%E4%BD%93%E8%B4%A8.md)
